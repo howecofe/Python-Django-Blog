@@ -1,0 +1,17 @@
+.pregmatic_logo {
+    font-family: 'IBM Plex Serif', serif;
+}
+
+.pregmatic_footer_button {
+    font-size: .6rem;
+}
+
+.pregmatic_footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.pregmatic_header {
+    text-align: center;
+    margin: 2rem 0;
+}
